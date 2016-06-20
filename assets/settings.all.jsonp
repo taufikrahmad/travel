@@ -1,0 +1,1 @@
+transifex_settings({"production": {"picker": "", "autocollect": true, "dynamic": true, "domain": "materializecss.com", "detectlang": true}, "staging": {"picker": "", "autocollect": true, "dynamic": true, "domain": "", "detectlang": true}});
